@@ -1,4 +1,4 @@
-checkout system with smart discount rules.
+An advanced bill management application built with pure JavaScript that simulates a real-world checkout system with smart discount rules.
 
 🌟 Key Features
 Dynamic Calculations: Automatically calculates tax and tips based on user input.
